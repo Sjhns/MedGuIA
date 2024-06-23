@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O MedGuIA é um sistema apoio e auxílio para agilizar o atendimento de pacientes utilizando a plataforma do Telegram e Whatsapp para realizar o atendimento de forma remota. O sistema foi desenvolvido para auxiliar os profissionais de saúde a realizar o atendimento de pacientes de forma remota, com o objetivo de diminuir o tempo de espera e agilizar o atendimento.
+O MedGuIA é um sistema apoio e auxílio para agilizar o atendimento de pacientes utilizando a plataforma do whatsapp (a apresentação de protótipo seguira por telegram, pois whatsapp requer a compra para seu uso, não sendo viável neste momento de triagem de apresentação) para realizar o atendimento de forma remota. O sistema foi desenvolvido para auxiliar os usuários de saúde público e particular a realizar o atendimento de pacientes de forma remota contínuo e linear, com o objetivo de diminuir o tempo de espera e agilizar o atendimento, não se tornando repetitivo replicar seu histórico clínico prévio e atual sempre que buscar um serviço nas esferas de saúde pública ou utilizar um serviço privado neste tempo.
 
 ## Funcionalidades
 
